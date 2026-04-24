@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyApplicationInJava</string>
+    <string name="title_key">Welcome To Tic Tac Toe</string>
+</resources>
